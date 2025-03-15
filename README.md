@@ -1,3 +1,4 @@
+[![Build and Test](https://github.com/TribusK2/js-e2e-express-server/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/TribusK2/js-e2e-express-server/actions/workflows/test.yml)
 ---
 page_type: sample
 languages:
@@ -9,7 +10,6 @@ products:
 - azure
 - vs-code
 ---
-[![Build and Test](https://github.com/TribusK2/js-e2e-express-server/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/TribusK2/js-e2e-express-server/actions/workflows/test.yml)
 
 # JavaScript end-to-end client file upload to Azure Storage Blobs
 
